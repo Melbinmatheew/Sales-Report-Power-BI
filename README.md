@@ -34,4 +34,5 @@ This project showcases my skills in data visualization, financial analysis, and 
 Requirements
 
 Power BI Desktop
+
 Excel

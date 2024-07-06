@@ -9,17 +9,29 @@ Data Source:https://www.kaggle.com/datasets/abhishekrp1517/sales-data-for-econom
 The 10-page report includes:
 
 Dashboard: A snapshot of key metrics and trends
+
 Disclaimer: Important notes and data sources
+
 Yearly Overview: Annual sales performance analysis
+
 Monthly Overview: Detailed monthly sales insights
+
 Income Statement: Profit and loss breakdown
+
 Revenue: Total revenue analysis
+
 Revenue Elements: Breakdown of revenue components
+
 Cost: Total cost analysis
+
 Cost Elements: Detailed cost component analysis
+
 Summary: Key takeaways and insights
 
 This project showcases my skills in data visualization, financial analysis, and report creation using Power BI. It was a fantastic experience to dive deep into the data, uncover meaningful insights, and present them in an accessible and visually appealing format.
 
 
+Requirements
 
+Power BI Desktop
+Excel
